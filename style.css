@@ -29,6 +29,10 @@ button {
   font-family: "Patrick Hand", cursive;
 }
 
+a{
+  text-decoration: none;
+}
+
 /* header section */
 .header {
   /* background-color: #ffbb02; */
@@ -131,6 +135,7 @@ section.hero {
 }
 
 input.ca_txt {
+  width: 90%;
   font-size: 32px;
   background-color: transparent;
   outline: none;
@@ -402,7 +407,7 @@ h3.number {
 .ca_input.tkn_input {
   margin: 49px auto;
   position:relative;
-  width: 42%;
+  width: 65%;
   background: #fff6b5;
   /* padding: 40px; */
 }
