@@ -566,6 +566,15 @@ span.tkn_ttl {
   /* height: 130vh; */
 }
 
+.footer {
+  padding: 70px 0;
+  background-image: url(/images/footmob.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 120vh;
+  background-color: #ffbb02;
+}
+
   .lg_txt {
     font-size: 43px;
     font-weight: 400;
@@ -720,14 +729,7 @@ span.tkn_ttl {
   display: none;
 } */
 
-.footer {
-  padding: 70px 0;
-  background-image: url(/images/footmob.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 120vh;
-  background-color: #ffbb02;
-}
+
 
 
 @media screen and (max-width:420px) {
