@@ -555,6 +555,9 @@ span.tkn_ttl {
  .header {
   /* background-color: #ffbb02; */
   background: url('./images/mob.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   /* height: 130vh; */
 }
 
@@ -765,9 +768,6 @@ span.tkn_ttl {
   
 }
 
-.header{
-  background: url('./images/mob.png');
-}
 
 .footer {
   padding: 70px 0;
