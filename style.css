@@ -712,6 +712,15 @@ span.tkn_ttl {
   display: none;
 } */
 
+.footer {
+  padding: 70px 0;
+  background-image: url(/images/ff5.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 120vh;
+  background-color: #ffbb02;
+}
+
 
 @media screen and (max-width:420px) {
   .ca_input {
@@ -756,4 +765,16 @@ span.tkn_ttl {
   
 }
 
+.header{
+  background: url('./images/mob.png');
+}
+
+.footer {
+  padding: 70px 0;
+  background-image: url(/images/ff5.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 120vh;
+  background-color: #ffbb02;
+}
 
