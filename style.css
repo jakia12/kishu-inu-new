@@ -33,7 +33,11 @@ button {
 .header {
   /* background-color: #ffbb02; */
   background: url('./images/hero.png');
-  height: 130vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  height: 100vh;
 }
 
 .brand {
@@ -548,6 +552,12 @@ span.tkn_ttl {
 }
 /* responsive design */
 @media screen and (max-width: 768px) {
+ .header {
+  /* background-color: #ffbb02; */
+  background: url('./images/mob.png');
+  /* height: 130vh; */
+}
+
   .lg_txt {
     font-size: 43px;
     font-weight: 400;
