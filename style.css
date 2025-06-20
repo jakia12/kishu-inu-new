@@ -717,7 +717,7 @@ span.tkn_ttl {
 
 .footer {
   padding: 70px 0;
-  background-image: url(/images/ff5.png);
+  background-image: url(/images/footmob.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 120vh;
@@ -765,16 +765,18 @@ span.tkn_ttl {
   font-size: 29px;
   margin-top: 7px;
 }
-  
-}
-
 
 .footer {
   padding: 70px 0;
-  background-image: url(/images/ff5.png);
+  background-image: url(/images/footmob.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 120vh;
   background-color: #ffbb02;
 }
+  
+}
+
+
+
 
